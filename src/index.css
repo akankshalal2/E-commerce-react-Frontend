@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *, *::before, *::after {
+  box-sizing: border-box;
+} */
+
+/* .container {
+  max-width: 100%;
+  overflow-x: auto;
+  display: flex;
+  flex-wrap: wrap;
+} */
